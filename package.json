@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-octicon": "^2.0.0"
   },
   "devDependencies": {
     "nwb": "0.18.x"
